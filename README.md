@@ -25,5 +25,5 @@ Benjamin Clark (brclark44@tntech.edu, +1(281)638-6006)
 
 ## Sources
 
-*[Raspberry Pi Pico WH Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
-*[MicroPython Documentation](https://docs.micropython.org/en/latest/)
+* [Raspberry Pi Pico WH Documentation](https://www.raspberrypi.com/documentation/microcontrollers/raspberry-pi-pico.html)
+* [MicroPython Documentation](https://docs.micropython.org/en/latest/)
