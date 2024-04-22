@@ -4,7 +4,7 @@ This project was completed for Dr.Bhattacharya's ECE 1000 class. The goal was to
 
 ## Description
 
-Using a Capacitive Soil Moisture Sensor (HW-390), a Single-Channel Relay (Keyes-SR1y), a small pump, a Raspberry Pi Pico WH, and an accompanying breakout board, I built a device capable of detecting the water level or humidity of a hydroponic/geoponic system. The script is configured to work best in a hydroponic system. The pump wired into the relay is powered when the water level is detected to be low by the moisture sensor and will pump water from a reservoir into the container until the water reaches halfway up the sensor. On the breakout board, there are three buttons: a manual override to activate the pump, and two manual overrides to stop the pump (held and toggled).
+Using a Capacitive Soil Moisture Sensor (HW-390), a Single-Channel Relay (Keyes-SR1y), a small pump, a Raspberry Pi Pico WH, and an accompanying breakout board, I designed a device for detecting the water level or humidity of a hydroponic/geoponic system. The script is configured to work best in a hydroponic system. A pump wired into a relay is powered when the water level is detected to be low by the soil moisture sensor and will pump water from a reservoir into the container until the water reaches halfway up the sensor. On the breakout board, there are three buttons: a manual override to activate the pump, and two manual overrides to stop the pump (held and toggled).
 
 ### Dependencies
 
