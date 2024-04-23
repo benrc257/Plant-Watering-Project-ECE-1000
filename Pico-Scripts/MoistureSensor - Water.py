@@ -8,6 +8,9 @@ LED = Pin("LED", value=0)
 buttonon = Pin(14, Pin.IN)
 buttontoggle = Pin(15, Pin.IN)
 
+# Default behavior (If false, toggle switch must be pressed before the system activates)
+default = False
+
 # Power outputs on board
 humidpower = Pin(27, Pin.OUT, value=1)
 pumppower = Pin(22, Pin.OUT, value=0)
@@ -23,7 +26,7 @@ adc = ADC(26)
 # Class for toggling the pump
 class Toggle:
     def __init__(self): # Initializes state to True (system off by default)
-        self.state = False
+        self.state = default
     def flip(self):
         self.state = not self.state # Toggles state
         LED.value(not LED.value()) # Toggles LED on pico
