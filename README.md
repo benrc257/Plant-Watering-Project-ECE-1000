@@ -1,6 +1,6 @@
 # Automatic Plant Watering
 
-This project was completed for Dr.Bhattacharya's ECE 1000 class. The goal was to create an automatic plant watering system using a soil moisture sensor.
+This project was completed for Dr. Bhattacharya's ECE 1000 class. The goal was to create an automatic plant watering system using a soil moisture sensor.
 
 ## Description
 
