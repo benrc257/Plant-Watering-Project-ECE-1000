@@ -15,7 +15,7 @@ Using a Capacitive Soil Moisture Sensor (HW-390), a Single-Channel Relay (Keyes-
 * Step 1 - Download [Thonny IDE](https://thonny.org/) and install
 * Step 2 - Launch Thonny and select the Run dropdown
 * Step 3 - Select "Configure interpreter" and choose "MicroPython (Raspberry Pi Pico)" from the dropdown menu
-* Step 4 - Connect the Rasberry Pi Pico in bootsel mode (method varies by board)
+* Step 4 - Connect the Rasberry Pi Pico to the computer via USB
 * Step 5 - Open the script and run it using Thonny
   * The required pins for the sensor, relay, encoder, switch, and pump are defined in the script
 
