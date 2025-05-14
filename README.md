@@ -21,7 +21,7 @@ Using a Capacitive Soil Moisture Sensor (HW-390), a Single-Channel Relay (Keyes-
 
 ## Authors
 
-Benjamin Clark (brclark44@tntech.edu, +1(281)638-6006)
+Benjamin Clark (brclark44@tntech.edu)
 
 ## Sources
 
